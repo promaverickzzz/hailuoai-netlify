@@ -1,0 +1,2 @@
+# hailuoai-netlify
+Hailuo AI
